@@ -13,10 +13,22 @@ namespace testProj
             Console.WriteLine("Starting Zip and Encrypt!");
             
             // Defining Paths and Variables
-            string startPath = @"./TestFiles";
-            string subPath = @"./TestFiles/Test";
-            Console.WriteLine(startPath);
-            Console.WriteLine(subPath);
+            // string startPath = @"./TestFiles";
+            // string subPath = @"./TestFiles/Test";
+
+            // Type your path and subpath vars and press enter
+            Console.WriteLine("Enter main path:");
+            // Create a string variable and get user input from the keyboard and store it in the variable
+            string startPath = Console.ReadLine();
+
+            // Type your path and subpath vars and press enter
+            Console.WriteLine("Enter sub path:");
+            // Create a string variable and get user input from the keyboard and store it in the variable
+            string subPath = Console.ReadLine();
+
+
+            Console.WriteLine("Main Path: " + startPath);
+            Console.WriteLine("Sub Path: " + subPath);
 
             // Check if sub directory exists
             if (!Directory.Exists(startPath))  
