@@ -1,12 +1,20 @@
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+// Importing Libraries / Modules 
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 using System;
-// required in addition to other 'using necessary
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
 
-namespace testProj
+
+
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+// Main Project / Namespace
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+namespace zipAndEncrypt
 {
-    class test
+    class zip
     {
         static void Main(string[] args)
         {
@@ -22,7 +30,7 @@ namespace testProj
             // Check if sub directory exists
             if (!Directory.Exists(startPath))  
             {  
-                Console.WriteLine("start Directory Does not Exist"); 
+                Console.WriteLine("Start Directory DOES NOT Exist"); 
             }
             else {
                 Console.WriteLine("Start Directory Exists!!!!"); 
