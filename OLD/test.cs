@@ -1,4 +1,7 @@
 using System;
+// required in addition to other 'using necessary
+using System.Diagnostics;
+using System.IO;
 
 namespace testProj
 {
@@ -7,6 +10,7 @@ namespace testProj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
         }
     }
 }
