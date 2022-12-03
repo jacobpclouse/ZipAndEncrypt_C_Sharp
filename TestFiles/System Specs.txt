@@ -1,0 +1,84 @@
+CPU
+
+	Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+
+	Base speed:	3.19 GHz
+	Sockets:	1
+	Cores:	4
+	Logical processors:	4
+	Virtualization:	Enabled
+	L1 cache:	256 KB
+	L2 cache:	1.0 MB
+	L3 cache:	6.0 MB
+
+	Utilization	6%
+	Speed	1.56 GHz
+	Up time	0:00:07:25
+	Processes	207
+	Threads	2441
+	Handles	89794
+
+
+Memory
+
+	16.0 GB
+
+	Speed:	2133 MHz
+	Slots used:	4 of 4
+	Form factor:	DIMM
+	Hardware reserved:	120 MB
+
+	Available	9.6 GB
+	Cached	3.3 GB
+	Committed	6.9/18.3 GB
+	Paged pool	297 MB
+	Non-paged pool	190 MB
+	In use (Compressed)	6.1 GB (0 MB)
+
+
+Disk 0 (D:)
+
+	WDC WD40EZAZ-00SF3B0
+
+	Capacity:	3.6 TB
+	Formatted:	3.6 TB
+	System disk:	No
+	Page file:	No
+	Type:	HDD
+
+	Read speed	0 KB/s
+	Write speed	0 KB/s
+	Active time	0%
+	Average response time	0 ms
+
+
+Disk 1 (C:)
+
+	SAMSUNG MZVLB512HBJQ-000L7
+
+	Capacity:	477 GB
+	Formatted:	477 GB
+	System disk:	Yes
+	Page file:	Yes
+	Type:	SSD
+
+	Read speed	0 KB/s
+	Write speed	0 KB/s
+	Active time	0%
+	Average response time	0 ms
+
+
+GPU 0
+
+	Intel(R) HD Graphics 530
+
+	Driver version:	31.0.101.2111
+	Driver date:	7/19/2022
+	DirectX version:	12 (FL 12.1)
+	Physical location:	PCI bus 0, device 2, function 0
+
+	Utilization	1%
+	Dedicated GPU memory	
+	Shared GPU memory	0.2/7.9 GB
+	GPU Memory	0.2/7.9 GB
+
