@@ -35,3 +35,5 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.201-windows
 - Zip compression Microsoft: https://learn.microsoft.com/en-us/dotnet/api/system.io.compression.zipfile?view=net-7.0
 
 - A Complete C# Directory Tutorial: https://www.c-sharpcorner.com/article/directories-in-c-sharp/
+
+- How to encrypt and decrypt files using the AES encryption algorithm in C#: https://ourcodeworld.com/articles/read/471/how-to-encrypt-and-decrypt-files-using-the-aes-encryption-algorithm-in-c-sharp
